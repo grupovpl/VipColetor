@@ -1,0 +1,6 @@
+{
+  "version": "2.0.0",
+  "min_supported": "2.0.0",
+  "changelog": "Correções de UI, ajustes de paths e melhorias no updater.",
+  "download_url": "https://github.com/grupovpl/VipColetor/releases/download/v2.0.0/VIPColetor_v2.0.0.exe"
+}
